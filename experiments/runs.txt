@@ -1,0 +1,131 @@
+---
+Geo
+---
+3355809579 - no shield, as = 0.1
+n_hit_geofence or obstacle 17690
+prey caught 280
+time_elapsed (m) = 57.30774421993333
+
+---- 
+287531105 - shield, as = 0.1
+n_hit_geofence or obstacle 7510 <-- not really, due to random actions being picked when agent fails after 100 attempts
+n_agent_fails 258800
+n_prey_caught 60
+time_elapsed (m) = 123.16536516381666
+
+
+---------
+Obstacle
+--------
+8641299845 - no shield, agent size = 0.1,
+n_hit_geofence or obstacle 290
+time_elapsed (m) = 19.042338463666667
+n_prey_caught 670
+---------
+
+asd
+
+
+
+
+
+6566170072 - no shield, agent size, step size = 1
+n_prey_caught 15380
+>how many times hit obstacle?
+time_elapsed (m) = 15.750912389683332
+
+---------
+3626370256 - shield, agent size, step size = 1
+<no tracing recorded>
+
+7776754836 - shield, agent size = 0.1, step size = 1
+n_prey_caught 15930
+time_elapsed (m) = 54.62233685435
+
+
+----------------
+Geo and Obstacle
+----------------
+2920430575 - shield, agent size = 0.1, step size = 1
+mean rew = -0.6, never hits obstacle
+n_prey_caught 6820
+time_elapsed (m) = 95.83967228863334
+
+6699997859 - shield, agent size = 0.1, step size = 1
+mean rew = -1, never hits obstacle
+n_prey_caught 30
+time_elapsed (m) = 89.0624377976
+
+6133811883 - shield, agent size = 0.1, step size = 1
+mean rew = -0.99, never hits obstacle
+n_prey_caught 40
+time_elapsed (m) = 89.0624377976
+
+------------------
+364515083 no shield, agent size = 0.1, step size = 1
+max rew = 0.5 approx., 
+<no trace recorded>
+
+8773855448 no shield, agent size = 0.1, step size = 1
+n_hit_geofence or obstacle 210
+max rew = -1 (flat!)
+never caught the prey?
+starting new rollout buffer after num_timesteps = 499712
+time_elapsed (m) = 30.197058796533334
+
+8773855448 no shield, agent size = 0.1, step size = 1
+max rew = -0.95
+n_hit_geofence or obstacle 370
+prey caught 490
+time_elapsed (m) = 32.155303040949995
+
+
+--
+BL
+---
+369879923 - no shield tgt_rad = 0.1 
+n_bound_exceeded 125400
+prey
+time_elapsed (m) = 21.872635780583334
+------------
+
+1942978020 - shield, tgt_radius - 0, agent_size = 0.1
+n_prey_caught 166120
+time_elapsed (m) = 46.42225856566667 (but loads of screen output)
+mean rew = 0.95 (due to incl. of failures of agent to find a good action)\
+
+------
+All 3
+-----
+6663905990 - no shield tgt_rad = 0.1 
+n_bound_exceeded 125200
+n_hit_geofence or obstacle 720
+prey never caught
+time_elapsed (m) = 22.47802425468333
+rewards -1
+---------------
+
+7915419409 - shield, tgt_rad = 0.1 
+n_prey_caught 113100
+time_elapsed (m) = 51.63681785628333
+n_agent_fails 342044 <-- # times agent unable to find an acceptable action
+
+
+
+
+
+
+
+
+OLD
+***these may not be correct wasn't correctly doing geofencing violations***
+5975224377 - no shield, agent size = step size = 1,
+n_prey_caught 145000
+n_prey_caught 145010
+n_prey_caught 145020
+n_prey_caught 145030
+time_elapsed (m) = 19.341852075816668
+
+1366069574 - no shield, agent size = 0.1
+n_prey_caught 30,
+time_elapsed (m) = 17.434441539816664

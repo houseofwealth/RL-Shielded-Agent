@@ -1,0 +1,20 @@
+Metadata-Version: 2.4
+Name: meher
+Version: 0.0.0
+Author: Srinivas Nedunuri
+Author-email: ss.nedunuri@gmail.com
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+
+# Wolfpack
+
+For documentation, please refer to [this website](https://wiki.sandia.gov/display/WOL/Wolfpack+Home)
+
+## Testing
+
+```cd meher\meher```
+
+```python -m pytest```

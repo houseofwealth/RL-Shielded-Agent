@@ -1,0 +1,757 @@
+  logger.warn(
+n_hit_geofence or obstacle 10
+n_hit_geofence or obstacle 20
+n_hit_geofence or obstacle 30
+time_elapsed (m) = 0.07557788075
+
+starting new rollout buffer after num_timesteps = 2048
+n_hit_geofence or obstacle 40
+n_hit_geofence or obstacle 50
+n_hit_geofence or obstacle 60
+time_elapsed (m) = 0.18870732796666667
+
+starting new rollout buffer after num_timesteps = 4096
+n_hit_geofence or obstacle 70
+n_hit_geofence or obstacle 80
+n_hit_geofence or obstacle 90
+time_elapsed (m) = 0.3153710567833333
+
+starting new rollout buffer after num_timesteps = 6144
+n_hit_obstacle = 100
+n_hit_geofence or obstacle 100
+n_hit_geofence or obstacle 110
+time_elapsed (m) = 0.42275084125
+
+starting new rollout buffer after num_timesteps = 8192
+n_hit_geofence or obstacle 120
+time_elapsed (m) = 0.5203691260166666
+
+starting new rollout buffer after num_timesteps = 10240
+n_hit_geofence or obstacle 130
+time_elapsed (m) = 0.6135993289666666
+
+starting new rollout buffer after num_timesteps = 12288
+n_hit_geofence or obstacle 140
+n_hit_geofence or obstacle 150
+time_elapsed (m) = 0.7185585283833333
+
+starting new rollout buffer after num_timesteps = 14336
+time_elapsed (m) = 0.8266924823166666
+
+starting new rollout buffer after num_timesteps = 16384
+n_hit_geofence or obstacle 160
+time_elapsed (m) = 0.9518148276333334
+
+starting new rollout buffer after num_timesteps = 18432
+n_hit_geofence or obstacle 170
+time_elapsed (m) = 1.0555660482833333
+
+starting new rollout buffer after num_timesteps = 20480
+time_elapsed (m) = 1.1636122918666667
+
+starting new rollout buffer after num_timesteps = 22528
+n_hit_geofence or obstacle 180
+time_elapsed (m) = 1.2862493791666667
+
+starting new rollout buffer after num_timesteps = 24576
+time_elapsed (m) = 1.4186956746166668
+
+starting new rollout buffer after num_timesteps = 26624
+n_hit_geofence or obstacle 190
+time_elapsed (m) = 1.5409252886833333
+
+starting new rollout buffer after num_timesteps = 28672
+time_elapsed (m) = 1.6583185577666666
+
+starting new rollout buffer after num_timesteps = 30720
+time_elapsed (m) = 1.7775806510999999
+
+starting new rollout buffer after num_timesteps = 32768
+time_elapsed (m) = 1.8983586670833332
+
+starting new rollout buffer after num_timesteps = 34816
+time_elapsed (m) = 2.0386157775833333
+
+starting new rollout buffer after num_timesteps = 36864
+time_elapsed (m) = 2.1623621898
+
+starting new rollout buffer after num_timesteps = 38912
+time_elapsed (m) = 2.2840206727166663
+
+starting new rollout buffer after num_timesteps = 40960
+time_elapsed (m) = 2.4076822623
+
+starting new rollout buffer after num_timesteps = 43008
+n_hit_obstacle = 200
+n_hit_geofence or obstacle 200
+time_elapsed (m) = 2.5493218419000003
+
+starting new rollout buffer after num_timesteps = 45056
+time_elapsed (m) = 2.6719192973666663
+
+starting new rollout buffer after num_timesteps = 47104
+time_elapsed (m) = 2.7865038062000003
+
+starting new rollout buffer after num_timesteps = 49152
+time_elapsed (m) = 2.911278106083333
+
+starting new rollout buffer after num_timesteps = 51200
+time_elapsed (m) = 3.033244310783333
+
+starting new rollout buffer after num_timesteps = 53248
+time_elapsed (m) = 3.1741157398833333
+
+starting new rollout buffer after num_timesteps = 55296
+time_elapsed (m) = 3.2937765717
+
+starting new rollout buffer after num_timesteps = 57344
+time_elapsed (m) = 3.3892940203166666
+
+starting new rollout buffer after num_timesteps = 59392
+time_elapsed (m) = 3.508463230583333
+
+starting new rollout buffer after num_timesteps = 61440
+time_elapsed (m) = 3.6442719415333333
+
+starting new rollout buffer after num_timesteps = 63488
+time_elapsed (m) = 3.7642727559
+
+starting new rollout buffer after num_timesteps = 65536
+time_elapsed (m) = 3.8853632655833334
+
+starting new rollout buffer after num_timesteps = 67584
+time_elapsed (m) = 4.005418142166667
+
+starting new rollout buffer after num_timesteps = 69632
+time_elapsed (m) = 4.1271388011
+
+starting new rollout buffer after num_timesteps = 71680
+time_elapsed (m) = 4.266798330766666
+
+starting new rollout buffer after num_timesteps = 73728
+time_elapsed (m) = 4.390426154
+
+starting new rollout buffer after num_timesteps = 75776
+time_elapsed (m) = 4.510414381116666
+
+starting new rollout buffer after num_timesteps = 77824
+time_elapsed (m) = 4.65049979295
+
+starting new rollout buffer after num_timesteps = 79872
+time_elapsed (m) = 4.803640601883333
+
+starting new rollout buffer after num_timesteps = 81920
+time_elapsed (m) = 4.93377048335
+
+starting new rollout buffer after num_timesteps = 83968
+time_elapsed (m) = 5.0642044566
+
+starting new rollout buffer after num_timesteps = 86016
+time_elapsed (m) = 5.1700925476
+
+starting new rollout buffer after num_timesteps = 88064
+time_elapsed (m) = 5.3330292623833335
+
+starting new rollout buffer after num_timesteps = 90112
+time_elapsed (m) = 5.464969715066667
+
+starting new rollout buffer after num_timesteps = 92160
+time_elapsed (m) = 5.5967420705
+
+starting new rollout buffer after num_timesteps = 94208
+time_elapsed (m) = 5.730536620883333
+
+starting new rollout buffer after num_timesteps = 96256
+time_elapsed (m) = 5.824713919466666
+
+starting new rollout buffer after num_timesteps = 98304
+time_elapsed (m) = 5.96235022305
+
+starting new rollout buffer after num_timesteps = 100352
+time_elapsed (m) = 6.088308401183334
+
+starting new rollout buffer after num_timesteps = 102400
+time_elapsed (m) = 6.214940949583333
+
+starting new rollout buffer after num_timesteps = 104448
+time_elapsed (m) = 6.3396707717166665
+
+starting new rollout buffer after num_timesteps = 106496
+time_elapsed (m) = 6.459135232383333
+
+starting new rollout buffer after num_timesteps = 108544
+time_elapsed (m) = 6.559600627766667
+
+starting new rollout buffer after num_timesteps = 110592
+time_elapsed (m) = 6.664663740383333
+
+starting new rollout buffer after num_timesteps = 112640
+time_elapsed (m) = 6.803715344466666
+
+starting new rollout buffer after num_timesteps = 114688
+time_elapsed (m) = 6.9523708187
+
+starting new rollout buffer after num_timesteps = 116736
+time_elapsed (m) = 7.0642233011333335
+
+starting new rollout buffer after num_timesteps = 118784
+time_elapsed (m) = 7.18985382735
+
+starting new rollout buffer after num_timesteps = 120832
+time_elapsed (m) = 7.316001880300001
+
+starting new rollout buffer after num_timesteps = 122880
+time_elapsed (m) = 7.45624250855
+
+starting new rollout buffer after num_timesteps = 124928
+time_elapsed (m) = 7.6083127398
+
+starting new rollout buffer after num_timesteps = 126976
+time_elapsed (m) = 7.735468305916667
+
+starting new rollout buffer after num_timesteps = 129024
+time_elapsed (m) = 7.8521540522999995
+
+starting new rollout buffer after num_timesteps = 131072
+time_elapsed (m) = 7.9662196855500005
+
+starting new rollout buffer after num_timesteps = 133120
+time_elapsed (m) = 8.108013965366666
+
+starting new rollout buffer after num_timesteps = 135168
+time_elapsed (m) = 8.241048223866667
+
+starting new rollout buffer after num_timesteps = 137216
+time_elapsed (m) = 8.3638969648
+
+starting new rollout buffer after num_timesteps = 139264
+time_elapsed (m) = 8.493929557616667
+
+starting new rollout buffer after num_timesteps = 141312
+time_elapsed (m) = 8.628648203233332
+
+starting new rollout buffer after num_timesteps = 143360
+time_elapsed (m) = 8.7394626872
+
+starting new rollout buffer after num_timesteps = 145408
+time_elapsed (m) = 8.842677758016666
+
+starting new rollout buffer after num_timesteps = 147456
+time_elapsed (m) = 8.944920830349998
+
+starting new rollout buffer after num_timesteps = 149504
+time_elapsed (m) = 9.071119827083333
+
+starting new rollout buffer after num_timesteps = 151552
+time_elapsed (m) = 9.202135479666667
+
+starting new rollout buffer after num_timesteps = 153600
+n_hit_geofence or obstacle 210
+time_elapsed (m) = 9.3120833452
+
+starting new rollout buffer after num_timesteps = 155648
+time_elapsed (m) = 9.4220389071
+
+starting new rollout buffer after num_timesteps = 157696
+time_elapsed (m) = 9.5654645321
+
+starting new rollout buffer after num_timesteps = 159744
+time_elapsed (m) = 9.696210875350001
+
+starting new rollout buffer after num_timesteps = 161792
+time_elapsed (m) = 9.81648110415
+
+starting new rollout buffer after num_timesteps = 163840
+time_elapsed (m) = 9.924669960883334
+
+starting new rollout buffer after num_timesteps = 165888
+time_elapsed (m) = 10.032505397416665
+
+starting new rollout buffer after num_timesteps = 167936
+time_elapsed (m) = 10.128078379316666
+
+starting new rollout buffer after num_timesteps = 169984
+time_elapsed (m) = 10.228411582116667
+
+starting new rollout buffer after num_timesteps = 172032
+time_elapsed (m) = 10.3345925168
+
+starting new rollout buffer after num_timesteps = 174080
+time_elapsed (m) = 10.463799016716667
+
+starting new rollout buffer after num_timesteps = 176128
+time_elapsed (m) = 10.604674739933333
+
+starting new rollout buffer after num_timesteps = 178176
+time_elapsed (m) = 10.724380796233334
+
+starting new rollout buffer after num_timesteps = 180224
+time_elapsed (m) = 10.854442381133333
+
+starting new rollout buffer after num_timesteps = 182272
+time_elapsed (m) = 10.992978983033334
+
+starting new rollout buffer after num_timesteps = 184320
+time_elapsed (m) = 11.127265654933332
+
+starting new rollout buffer after num_timesteps = 186368
+time_elapsed (m) = 11.230067571733334
+
+starting new rollout buffer after num_timesteps = 188416
+time_elapsed (m) = 11.329345843499999
+
+starting new rollout buffer after num_timesteps = 190464
+time_elapsed (m) = 11.464967291166666
+
+starting new rollout buffer after num_timesteps = 192512
+time_elapsed (m) = 11.594866748516667
+
+starting new rollout buffer after num_timesteps = 194560
+time_elapsed (m) = 11.696878987483332
+
+starting new rollout buffer after num_timesteps = 196608
+time_elapsed (m) = 11.833081245283333
+
+starting new rollout buffer after num_timesteps = 198656
+time_elapsed (m) = 11.950370518633333
+
+starting new rollout buffer after num_timesteps = 200704
+time_elapsed (m) = 12.054517703833334
+
+starting new rollout buffer after num_timesteps = 202752
+time_elapsed (m) = 12.18405426745
+
+starting new rollout buffer after num_timesteps = 204800
+time_elapsed (m) = 12.315924600466667
+
+starting new rollout buffer after num_timesteps = 206848
+time_elapsed (m) = 12.433028376333334
+
+starting new rollout buffer after num_timesteps = 208896
+time_elapsed (m) = 12.58210678145
+
+starting new rollout buffer after num_timesteps = 210944
+time_elapsed (m) = 12.7236375745
+
+starting new rollout buffer after num_timesteps = 212992
+time_elapsed (m) = 12.841223910550001
+
+starting new rollout buffer after num_timesteps = 215040
+time_elapsed (m) = 12.961974128466666
+
+starting new rollout buffer after num_timesteps = 217088
+time_elapsed (m) = 13.086219275966666
+
+starting new rollout buffer after num_timesteps = 219136
+time_elapsed (m) = 13.216099564383335
+
+starting new rollout buffer after num_timesteps = 221184
+time_elapsed (m) = 13.320704095333333
+
+starting new rollout buffer after num_timesteps = 223232
+time_elapsed (m) = 13.448083016566667
+
+starting new rollout buffer after num_timesteps = 225280
+time_elapsed (m) = 13.552913934616667
+
+starting new rollout buffer after num_timesteps = 227328
+time_elapsed (m) = 13.688371646283334
+
+starting new rollout buffer after num_timesteps = 229376
+time_elapsed (m) = 13.797031867
+
+starting new rollout buffer after num_timesteps = 231424
+time_elapsed (m) = 13.9117951787
+
+starting new rollout buffer after num_timesteps = 233472
+time_elapsed (m) = 14.009544103100001
+
+starting new rollout buffer after num_timesteps = 235520
+time_elapsed (m) = 14.109961913566668
+
+starting new rollout buffer after num_timesteps = 237568
+time_elapsed (m) = 14.250387827816667
+
+starting new rollout buffer after num_timesteps = 239616
+time_elapsed (m) = 14.375469418733333
+
+starting new rollout buffer after num_timesteps = 241664
+time_elapsed (m) = 14.481524990683333
+
+starting new rollout buffer after num_timesteps = 243712
+time_elapsed (m) = 14.606260911833335
+
+starting new rollout buffer after num_timesteps = 245760
+time_elapsed (m) = 14.748208331533334
+
+starting new rollout buffer after num_timesteps = 247808
+time_elapsed (m) = 14.862687072433333
+
+starting new rollout buffer after num_timesteps = 249856
+time_elapsed (m) = 14.994081014716667
+
+starting new rollout buffer after num_timesteps = 251904
+time_elapsed (m) = 15.123121873516668
+
+starting new rollout buffer after num_timesteps = 253952
+time_elapsed (m) = 15.228509224516667
+
+starting new rollout buffer after num_timesteps = 256000
+time_elapsed (m) = 15.385724927483333
+
+starting new rollout buffer after num_timesteps = 258048
+time_elapsed (m) = 15.508658705033334
+
+starting new rollout buffer after num_timesteps = 260096
+time_elapsed (m) = 15.6407623152
+
+starting new rollout buffer after num_timesteps = 262144
+time_elapsed (m) = 15.741319780283334
+
+starting new rollout buffer after num_timesteps = 264192
+time_elapsed (m) = 15.872069412316668
+
+starting new rollout buffer after num_timesteps = 266240
+time_elapsed (m) = 16.00972935058333
+
+starting new rollout buffer after num_timesteps = 268288
+time_elapsed (m) = 16.1383461153
+
+starting new rollout buffer after num_timesteps = 270336
+time_elapsed (m) = 16.2697928575
+
+starting new rollout buffer after num_timesteps = 272384
+time_elapsed (m) = 16.406536611166665
+
+starting new rollout buffer after num_timesteps = 274432
+time_elapsed (m) = 16.545066788
+
+starting new rollout buffer after num_timesteps = 276480
+time_elapsed (m) = 16.6762454924
+
+starting new rollout buffer after num_timesteps = 278528
+time_elapsed (m) = 16.8079869879
+
+starting new rollout buffer after num_timesteps = 280576
+time_elapsed (m) = 16.960626155966665
+
+starting new rollout buffer after num_timesteps = 282624
+time_elapsed (m) = 17.0825914719
+
+starting new rollout buffer after num_timesteps = 284672
+time_elapsed (m) = 17.21613544786667
+
+starting new rollout buffer after num_timesteps = 286720
+time_elapsed (m) = 17.34633457135
+
+starting new rollout buffer after num_timesteps = 288768
+time_elapsed (m) = 17.475351920183336
+
+starting new rollout buffer after num_timesteps = 290816
+time_elapsed (m) = 17.599892169783335
+
+starting new rollout buffer after num_timesteps = 292864
+time_elapsed (m) = 17.6972180291
+
+starting new rollout buffer after num_timesteps = 294912
+time_elapsed (m) = 17.820228430716668
+
+starting new rollout buffer after num_timesteps = 296960
+time_elapsed (m) = 17.95830880065
+
+starting new rollout buffer after num_timesteps = 299008
+time_elapsed (m) = 18.11531620855
+
+starting new rollout buffer after num_timesteps = 301056
+time_elapsed (m) = 18.2506363657
+
+starting new rollout buffer after num_timesteps = 303104
+time_elapsed (m) = 18.387218102933332
+
+starting new rollout buffer after num_timesteps = 305152
+time_elapsed (m) = 18.522225168166663
+
+starting new rollout buffer after num_timesteps = 307200
+time_elapsed (m) = 18.67410973065
+
+starting new rollout buffer after num_timesteps = 309248
+time_elapsed (m) = 18.810145475383333
+
+starting new rollout buffer after num_timesteps = 311296
+time_elapsed (m) = 18.918882065016664
+
+starting new rollout buffer after num_timesteps = 313344
+time_elapsed (m) = 19.035978735633332
+
+starting new rollout buffer after num_timesteps = 315392
+time_elapsed (m) = 19.197251788033334
+
+starting new rollout buffer after num_timesteps = 317440
+time_elapsed (m) = 19.309055170016666
+
+starting new rollout buffer after num_timesteps = 319488
+time_elapsed (m) = 19.449759597616666
+
+starting new rollout buffer after num_timesteps = 321536
+time_elapsed (m) = 19.5821820805
+
+starting new rollout buffer after num_timesteps = 323584
+time_elapsed (m) = 19.686208598516664
+
+starting new rollout buffer after num_timesteps = 325632
+time_elapsed (m) = 19.828212561883333
+
+starting new rollout buffer after num_timesteps = 327680
+time_elapsed (m) = 19.963552374549998
+
+starting new rollout buffer after num_timesteps = 329728
+time_elapsed (m) = 20.08280692975
+
+starting new rollout buffer after num_timesteps = 331776
+time_elapsed (m) = 20.22588238145
+
+starting new rollout buffer after num_timesteps = 333824
+time_elapsed (m) = 20.3651431353
+
+starting new rollout buffer after num_timesteps = 335872
+time_elapsed (m) = 20.472784157816665
+
+starting new rollout buffer after num_timesteps = 337920
+time_elapsed (m) = 20.60487857748333
+
+starting new rollout buffer after num_timesteps = 339968
+time_elapsed (m) = 20.740928685616666
+
+starting new rollout buffer after num_timesteps = 342016
+time_elapsed (m) = 20.89608783135
+
+starting new rollout buffer after num_timesteps = 344064
+time_elapsed (m) = 21.028447467566664
+
+starting new rollout buffer after num_timesteps = 346112
+time_elapsed (m) = 21.13005408255
+
+starting new rollout buffer after num_timesteps = 348160
+time_elapsed (m) = 21.246204161100003
+
+starting new rollout buffer after num_timesteps = 350208
+time_elapsed (m) = 21.380668308433332
+
+starting new rollout buffer after num_timesteps = 352256
+time_elapsed (m) = 21.52162154155
+
+starting new rollout buffer after num_timesteps = 354304
+time_elapsed (m) = 21.629189705683334
+
+starting new rollout buffer after num_timesteps = 356352
+time_elapsed (m) = 21.73448584665
+
+starting new rollout buffer after num_timesteps = 358400
+time_elapsed (m) = 21.8289242403
+
+starting new rollout buffer after num_timesteps = 360448
+time_elapsed (m) = 21.939452264866667
+
+starting new rollout buffer after num_timesteps = 362496
+time_elapsed (m) = 22.094007849633332
+
+starting new rollout buffer after num_timesteps = 364544
+time_elapsed (m) = 22.224915019716665
+
+starting new rollout buffer after num_timesteps = 366592
+time_elapsed (m) = 22.355398686166666
+
+starting new rollout buffer after num_timesteps = 368640
+time_elapsed (m) = 22.474347784183333
+
+starting new rollout buffer after num_timesteps = 370688
+time_elapsed (m) = 22.593905079083335
+
+starting new rollout buffer after num_timesteps = 372736
+time_elapsed (m) = 22.70744791896667
+
+starting new rollout buffer after num_timesteps = 374784
+time_elapsed (m) = 22.826416855716666
+
+starting new rollout buffer after num_timesteps = 376832
+time_elapsed (m) = 22.955764665766665
+
+starting new rollout buffer after num_timesteps = 378880
+time_elapsed (m) = 23.078239850116667
+
+starting new rollout buffer after num_timesteps = 380928
+time_elapsed (m) = 23.198309616833335
+
+starting new rollout buffer after num_timesteps = 382976
+time_elapsed (m) = 23.30782416266667
+
+starting new rollout buffer after num_timesteps = 385024
+time_elapsed (m) = 23.41696521155
+
+starting new rollout buffer after num_timesteps = 387072
+time_elapsed (m) = 23.5233924054
+
+starting new rollout buffer after num_timesteps = 389120
+time_elapsed (m) = 23.6640451474
+
+starting new rollout buffer after num_timesteps = 391168
+time_elapsed (m) = 23.776344159883333
+
+starting new rollout buffer after num_timesteps = 393216
+time_elapsed (m) = 23.878011443183333
+
+starting new rollout buffer after num_timesteps = 395264
+time_elapsed (m) = 23.993273391433334
+
+starting new rollout buffer after num_timesteps = 397312
+time_elapsed (m) = 24.115202896916667
+
+starting new rollout buffer after num_timesteps = 399360
+time_elapsed (m) = 24.25757724965
+
+starting new rollout buffer after num_timesteps = 401408
+time_elapsed (m) = 24.361832664733335
+
+starting new rollout buffer after num_timesteps = 403456
+time_elapsed (m) = 24.472634288233333
+
+starting new rollout buffer after num_timesteps = 405504
+time_elapsed (m) = 24.610458233933333
+
+starting new rollout buffer after num_timesteps = 407552
+time_elapsed (m) = 24.717370695266666
+
+starting new rollout buffer after num_timesteps = 409600
+time_elapsed (m) = 24.854493886950003
+
+starting new rollout buffer after num_timesteps = 411648
+time_elapsed (m) = 24.9745138777
+
+starting new rollout buffer after num_timesteps = 413696
+time_elapsed (m) = 25.11206120195
+
+starting new rollout buffer after num_timesteps = 415744
+time_elapsed (m) = 25.22657817125
+
+starting new rollout buffer after num_timesteps = 417792
+time_elapsed (m) = 25.382427193916666
+
+starting new rollout buffer after num_timesteps = 419840
+time_elapsed (m) = 25.5264486343
+
+starting new rollout buffer after num_timesteps = 421888
+time_elapsed (m) = 25.660475034033333
+
+starting new rollout buffer after num_timesteps = 423936
+time_elapsed (m) = 25.776819941916663
+
+starting new rollout buffer after num_timesteps = 425984
+time_elapsed (m) = 25.899244369816664
+
+starting new rollout buffer after num_timesteps = 428032
+time_elapsed (m) = 26.0376241414
+
+starting new rollout buffer after num_timesteps = 430080
+time_elapsed (m) = 26.15178319263333
+
+starting new rollout buffer after num_timesteps = 432128
+time_elapsed (m) = 26.27676535286667
+
+starting new rollout buffer after num_timesteps = 434176
+time_elapsed (m) = 26.3705246362
+
+starting new rollout buffer after num_timesteps = 436224
+time_elapsed (m) = 26.52716649245
+
+starting new rollout buffer after num_timesteps = 438272
+time_elapsed (m) = 26.699724866633336
+
+starting new rollout buffer after num_timesteps = 440320
+time_elapsed (m) = 26.804984198533337
+
+starting new rollout buffer after num_timesteps = 442368
+time_elapsed (m) = 26.901177275166667
+
+starting new rollout buffer after num_timesteps = 444416
+time_elapsed (m) = 27.025556618333333
+
+starting new rollout buffer after num_timesteps = 446464
+time_elapsed (m) = 27.121337509416666
+
+starting new rollout buffer after num_timesteps = 448512
+time_elapsed (m) = 27.244308363783333
+
+starting new rollout buffer after num_timesteps = 450560
+time_elapsed (m) = 27.3820511042
+
+starting new rollout buffer after num_timesteps = 452608
+time_elapsed (m) = 27.532511066416664
+
+starting new rollout buffer after num_timesteps = 454656
+time_elapsed (m) = 27.631286952566665
+
+starting new rollout buffer after num_timesteps = 456704
+time_elapsed (m) = 27.754289576199998
+
+starting new rollout buffer after num_timesteps = 458752
+time_elapsed (m) = 27.862618637133334
+
+starting new rollout buffer after num_timesteps = 460800
+time_elapsed (m) = 27.97895014086667
+
+starting new rollout buffer after num_timesteps = 462848
+time_elapsed (m) = 28.108768474883334
+
+starting new rollout buffer after num_timesteps = 464896
+time_elapsed (m) = 28.2143656475
+
+starting new rollout buffer after num_timesteps = 466944
+time_elapsed (m) = 28.331405968033334
+
+starting new rollout buffer after num_timesteps = 468992
+time_elapsed (m) = 28.472164585399998
+
+starting new rollout buffer after num_timesteps = 471040
+time_elapsed (m) = 28.580832044100003
+
+starting new rollout buffer after num_timesteps = 473088
+time_elapsed (m) = 28.716915962316666
+
+starting new rollout buffer after num_timesteps = 475136
+time_elapsed (m) = 28.814078926866667
+
+starting new rollout buffer after num_timesteps = 477184
+time_elapsed (m) = 28.93444391418333
+
+starting new rollout buffer after num_timesteps = 479232
+time_elapsed (m) = 29.033000472066664
+
+starting new rollout buffer after num_timesteps = 481280
+time_elapsed (m) = 29.157986479283334
+
+starting new rollout buffer after num_timesteps = 483328
+time_elapsed (m) = 29.288966297433333
+
+starting new rollout buffer after num_timesteps = 485376
+time_elapsed (m) = 29.3999615016
+
+starting new rollout buffer after num_timesteps = 487424
+time_elapsed (m) = 29.51476189965
+
+starting new rollout buffer after num_timesteps = 489472
+time_elapsed (m) = 29.614365413116666
+
+starting new rollout buffer after num_timesteps = 491520
+time_elapsed (m) = 29.76917042246667
+
+starting new rollout buffer after num_timesteps = 493568
+time_elapsed (m) = 29.889859081016667
+
+starting new rollout buffer after num_timesteps = 495616
+time_elapsed (m) = 29.98237420695
+
+starting new rollout buffer after num_timesteps = 497664
+time_elapsed (m) = 30.08324107325
+
+starting new rollout buffer after num_timesteps = 499712
+time_elapsed (m) = 30.197058796533334

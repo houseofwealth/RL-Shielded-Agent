@@ -1,0 +1,1421 @@
+n_prey_caught 20
+time_elapsed (m) = 22.351632511433333
+
+starting new rollout buffer after num_timesteps = 2048
+Mean reward = -0.62 at 2402 steps
+n_prey_caught 30
+time_elapsed (m) = 22.551325973
+
+starting new rollout buffer after num_timesteps = 4096
+n_prey_caught 40
+n_prey_caught 50
+time_elapsed (m) = 22.748836577683335
+
+starting new rollout buffer after num_timesteps = 6144
+n_prey_caught 60
+n_prey_caught 70
+time_elapsed (m) = 22.94966621296667
+
+starting new rollout buffer after num_timesteps = 8192
+n_prey_caught 80
+time_elapsed (m) = 23.155929570516665
+
+starting new rollout buffer after num_timesteps = 10240
+n_prey_caught 90
+Mean reward = -0.56 at 10742 steps
+n_prey_caught 100
+time_elapsed (m) = 23.36327093065
+
+starting new rollout buffer after num_timesteps = 12288
+n_prey_caught 110
+n_prey_caught 120
+time_elapsed (m) = 23.562860161633335
+
+starting new rollout buffer after num_timesteps = 14336
+n_prey_caught 130
+n_prey_caught 140
+time_elapsed (m) = 23.775234727483333
+
+starting new rollout buffer after num_timesteps = 16384
+n_prey_caught 150
+n_prey_caught 160
+time_elapsed (m) = 23.9757085896
+
+starting new rollout buffer after num_timesteps = 18432
+n_prey_caught 170
+n_prey_caught 180
+Mean reward = -0.5 at 19743 steps
+n_prey_caught 190
+Mean reward = -0.44 at 20300 steps
+time_elapsed (m) = 24.192748647833334
+
+starting new rollout buffer after num_timesteps = 20480
+Mean reward = -0.38 at 20617 steps
+n_prey_caught 200
+Mean reward = -0.32 at 20696 steps
+n_prey_caught 210
+n_prey_caught 220
+time_elapsed (m) = 24.41430126705
+
+starting new rollout buffer after num_timesteps = 22528
+n_prey_caught 230
+n_prey_caught 240
+n_prey_caught 250
+time_elapsed (m) = 24.626323730266666
+
+starting new rollout buffer after num_timesteps = 24576
+n_prey_caught 260
+n_prey_caught 270
+time_elapsed (m) = 24.845380398916667
+
+starting new rollout buffer after num_timesteps = 26624
+n_prey_caught 280
+n_prey_caught 290
+n_prey_caught 300
+time_elapsed (m) = 25.066977976433336
+
+starting new rollout buffer after num_timesteps = 28672
+n_prey_caught 310
+n_prey_caught 320
+time_elapsed (m) = 25.290670546416667
+
+starting new rollout buffer after num_timesteps = 30720
+n_prey_caught 330
+n_prey_caught 340
+n_prey_caught 350
+time_elapsed (m) = 25.51271074816667
+
+starting new rollout buffer after num_timesteps = 32768
+n_prey_caught 360
+n_prey_caught 370
+time_elapsed (m) = 25.73008737813333
+
+starting new rollout buffer after num_timesteps = 34816
+n_prey_caught 380
+n_prey_caught 390
+n_prey_caught 400
+time_elapsed (m) = 25.9538659717
+
+starting new rollout buffer after num_timesteps = 36864
+n_prey_caught 410
+n_prey_caught 420
+time_elapsed (m) = 26.18796619953333
+
+starting new rollout buffer after num_timesteps = 38912
+n_prey_caught 430
+n_prey_caught 440
+time_elapsed (m) = 26.429920601583333
+
+starting new rollout buffer after num_timesteps = 40960
+n_prey_caught 450
+n_prey_caught 460
+n_prey_caught 470
+time_elapsed (m) = 26.638436406100002
+
+starting new rollout buffer after num_timesteps = 43008
+n_prey_caught 480
+time_elapsed (m) = 26.891850293683333
+
+starting new rollout buffer after num_timesteps = 45056
+n_prey_caught 490
+n_prey_caught 500
+n_prey_caught 510
+time_elapsed (m) = 27.114393227633332
+
+starting new rollout buffer after num_timesteps = 47104
+n_prey_caught 520
+n_prey_caught 530
+time_elapsed (m) = 27.365886403983332
+
+starting new rollout buffer after num_timesteps = 49152
+n_prey_caught 540
+n_prey_caught 550
+n_prey_caught 560
+time_elapsed (m) = 27.614202382333335
+
+starting new rollout buffer after num_timesteps = 51200
+n_prey_caught 570
+n_prey_caught 580
+n_prey_caught 590
+time_elapsed (m) = 27.87864163205
+
+starting new rollout buffer after num_timesteps = 53248
+n_prey_caught 600
+n_prey_caught 610
+time_elapsed (m) = 28.121772098983335
+
+starting new rollout buffer after num_timesteps = 55296
+n_prey_caught 620
+n_prey_caught 630
+n_prey_caught 640
+time_elapsed (m) = 28.40668513318333
+
+starting new rollout buffer after num_timesteps = 57344
+n_prey_caught 650
+n_prey_caught 660
+time_elapsed (m) = 28.641848231716665
+
+starting new rollout buffer after num_timesteps = 59392
+n_prey_caught 670
+n_prey_caught 680
+n_prey_caught 690
+time_elapsed (m) = 28.87898330466667
+
+starting new rollout buffer after num_timesteps = 61440
+n_prey_caught 700
+n_prey_caught 710
+time_elapsed (m) = 29.123028871983333
+
+starting new rollout buffer after num_timesteps = 63488
+n_prey_caught 720
+n_prey_caught 730
+n_prey_caught 740
+time_elapsed (m) = 29.395243306266664
+
+starting new rollout buffer after num_timesteps = 65536
+n_prey_caught 750
+n_prey_caught 760
+time_elapsed (m) = 29.629997785633336
+
+starting new rollout buffer after num_timesteps = 67584
+n_prey_caught 770
+n_prey_caught 780
+time_elapsed (m) = 29.89874844768333
+
+starting new rollout buffer after num_timesteps = 69632
+n_prey_caught 790
+n_prey_caught 800
+time_elapsed (m) = 30.1392073445
+
+starting new rollout buffer after num_timesteps = 71680
+n_prey_caught 810
+n_prey_caught 820
+time_elapsed (m) = 30.386212452366667
+
+starting new rollout buffer after num_timesteps = 73728
+n_prey_caught 830
+n_prey_caught 840
+n_prey_caught 850
+time_elapsed (m) = 30.631367881383333
+
+starting new rollout buffer after num_timesteps = 75776
+n_prey_caught 860
+n_prey_caught 870
+time_elapsed (m) = 30.87836679375
+
+starting new rollout buffer after num_timesteps = 77824
+n_prey_caught 880
+n_prey_caught 890
+n_prey_caught 900
+n_prey_caught 910
+time_elapsed (m) = 31.12887776095
+
+starting new rollout buffer after num_timesteps = 79872
+n_prey_caught 920
+n_prey_caught 930
+n_prey_caught 940
+time_elapsed (m) = 31.38407470083333
+
+starting new rollout buffer after num_timesteps = 81920
+n_prey_caught 950
+n_prey_caught 960
+n_prey_caught 970
+time_elapsed (m) = 31.6290644779
+
+starting new rollout buffer after num_timesteps = 83968
+n_prey_caught 980
+n_prey_caught 990
+time_elapsed (m) = 31.872165437333333
+
+starting new rollout buffer after num_timesteps = 86016
+n_prey_caught 1000
+n_prey_caught 1010
+n_prey_caught 1020
+time_elapsed (m) = 32.11459645191667
+
+starting new rollout buffer after num_timesteps = 88064
+n_prey_caught 1030
+n_prey_caught 1040
+n_prey_caught 1050
+time_elapsed (m) = 32.3697447853
+
+starting new rollout buffer after num_timesteps = 90112
+n_prey_caught 1060
+n_prey_caught 1070
+n_prey_caught 1080
+time_elapsed (m) = 32.628626638283336
+
+starting new rollout buffer after num_timesteps = 92160
+n_prey_caught 1090
+n_prey_caught 1100
+n_prey_caught 1110
+time_elapsed (m) = 32.87885545775
+
+starting new rollout buffer after num_timesteps = 94208
+n_prey_caught 1120
+n_prey_caught 1130
+n_prey_caught 1140
+time_elapsed (m) = 33.12856661156666
+
+starting new rollout buffer after num_timesteps = 96256
+n_prey_caught 1150
+n_prey_caught 1160
+time_elapsed (m) = 33.39560268383333
+
+starting new rollout buffer after num_timesteps = 98304
+n_prey_caught 1170
+n_prey_caught 1180
+n_prey_caught 1190
+time_elapsed (m) = 33.66458459268333
+
+starting new rollout buffer after num_timesteps = 100352
+n_prey_caught 1200
+n_prey_caught 1210
+n_prey_caught 1220
+time_elapsed (m) = 33.91508421365
+
+starting new rollout buffer after num_timesteps = 102400
+n_prey_caught 1230
+n_prey_caught 1240
+n_prey_caught 1250
+time_elapsed (m) = 34.171639357000004
+
+starting new rollout buffer after num_timesteps = 104448
+n_prey_caught 1260
+n_prey_caught 1270
+n_prey_caught 1280
+time_elapsed (m) = 34.433956186833335
+
+starting new rollout buffer after num_timesteps = 106496
+n_prey_caught 1290
+n_prey_caught 1300
+n_prey_caught 1310
+time_elapsed (m) = 34.690220095549996
+
+starting new rollout buffer after num_timesteps = 108544
+n_prey_caught 1320
+n_prey_caught 1330
+time_elapsed (m) = 34.95294834318334
+
+starting new rollout buffer after num_timesteps = 110592
+n_prey_caught 1340
+n_prey_caught 1350
+n_prey_caught 1360
+n_prey_caught 1370
+time_elapsed (m) = 35.22994196506667
+
+starting new rollout buffer after num_timesteps = 112640
+n_prey_caught 1380
+n_prey_caught 1390
+n_prey_caught 1400
+time_elapsed (m) = 35.51884761035
+
+starting new rollout buffer after num_timesteps = 114688
+n_prey_caught 1410
+n_prey_caught 1420
+n_prey_caught 1430
+time_elapsed (m) = 35.775035687233334
+
+starting new rollout buffer after num_timesteps = 116736
+n_prey_caught 1440
+n_prey_caught 1450
+n_prey_caught 1460
+time_elapsed (m) = 36.04660502003333
+
+starting new rollout buffer after num_timesteps = 118784
+n_prey_caught 1470
+n_prey_caught 1480
+n_prey_caught 1490
+time_elapsed (m) = 36.33296280885
+
+starting new rollout buffer after num_timesteps = 120832
+n_prey_caught 1500
+n_prey_caught 1510
+time_elapsed (m) = 36.65159025165
+
+starting new rollout buffer after num_timesteps = 122880
+n_prey_caught 1520
+n_prey_caught 1530
+n_prey_caught 1540
+n_prey_caught 1550
+time_elapsed (m) = 36.95083136261667
+
+starting new rollout buffer after num_timesteps = 124928
+n_prey_caught 1560
+n_prey_caught 1570
+time_elapsed (m) = 37.217812745833335
+
+starting new rollout buffer after num_timesteps = 126976
+n_prey_caught 1580
+n_prey_caught 1590
+n_prey_caught 1600
+time_elapsed (m) = 37.49027870821667
+
+starting new rollout buffer after num_timesteps = 129024
+n_prey_caught 1610
+n_prey_caught 1620
+n_prey_caught 1630
+n_prey_caught 1640
+time_elapsed (m) = 37.7855061339
+
+starting new rollout buffer after num_timesteps = 131072
+n_prey_caught 1650
+n_prey_caught 1660
+n_prey_caught 1670
+time_elapsed (m) = 38.15426731496667
+
+starting new rollout buffer after num_timesteps = 133120
+n_prey_caught 1680
+n_prey_caught 1690
+time_elapsed (m) = 38.4447734106
+
+starting new rollout buffer after num_timesteps = 135168
+n_prey_caught 1700
+n_prey_caught 1710
+time_elapsed (m) = 38.77432755055
+
+starting new rollout buffer after num_timesteps = 137216
+n_prey_caught 1720
+n_prey_caught 1730
+n_prey_caught 1740
+time_elapsed (m) = 39.13228772123333
+
+starting new rollout buffer after num_timesteps = 139264
+n_prey_caught 1750
+n_prey_caught 1760
+time_elapsed (m) = 39.49064321951666
+
+starting new rollout buffer after num_timesteps = 141312
+n_prey_caught 1770
+n_prey_caught 1780
+n_prey_caught 1790
+time_elapsed (m) = 39.81624764203333
+
+starting new rollout buffer after num_timesteps = 143360
+n_prey_caught 1800
+n_prey_caught 1810
+n_prey_caught 1820
+time_elapsed (m) = 40.118708427883334
+
+starting new rollout buffer after num_timesteps = 145408
+n_prey_caught 1830
+n_prey_caught 1840
+n_prey_caught 1850
+time_elapsed (m) = 40.43440057571667
+
+starting new rollout buffer after num_timesteps = 147456
+n_prey_caught 1860
+n_prey_caught 1870
+time_elapsed (m) = 40.785658591866664
+
+starting new rollout buffer after num_timesteps = 149504
+n_prey_caught 1880
+n_prey_caught 1890
+n_prey_caught 1900
+time_elapsed (m) = 41.15260637085
+
+starting new rollout buffer after num_timesteps = 151552
+n_prey_caught 1910
+n_prey_caught 1920
+n_prey_caught 1930
+time_elapsed (m) = 41.51111711473333
+
+starting new rollout buffer after num_timesteps = 153600
+n_prey_caught 1940
+n_prey_caught 1950
+time_elapsed (m) = 41.844210939
+
+starting new rollout buffer after num_timesteps = 155648
+n_prey_caught 1960
+n_prey_caught 1970
+time_elapsed (m) = 42.126483600166665
+
+starting new rollout buffer after num_timesteps = 157696
+n_prey_caught 1980
+n_prey_caught 1990
+time_elapsed (m) = 42.45876423328333
+
+starting new rollout buffer after num_timesteps = 159744
+n_prey_caught 2000
+n_prey_caught 2010
+n_prey_caught 2020
+time_elapsed (m) = 42.86628894373334
+
+starting new rollout buffer after num_timesteps = 161792
+n_prey_caught 2030
+n_prey_caught 2040
+n_prey_caught 2050
+time_elapsed (m) = 43.23479489851666
+
+starting new rollout buffer after num_timesteps = 163840
+n_prey_caught 2060
+n_prey_caught 2070
+time_elapsed (m) = 43.54030196535
+
+starting new rollout buffer after num_timesteps = 165888
+n_prey_caught 2080
+n_prey_caught 2090
+n_prey_caught 2100
+time_elapsed (m) = 43.82157146801667
+
+starting new rollout buffer after num_timesteps = 167936
+n_prey_caught 2110
+n_prey_caught 2120
+time_elapsed (m) = 44.1148359655
+
+starting new rollout buffer after num_timesteps = 169984
+n_prey_caught 2130
+n_prey_caught 2140
+n_prey_caught 2150
+time_elapsed (m) = 44.409091087
+
+starting new rollout buffer after num_timesteps = 172032
+n_prey_caught 2160
+n_prey_caught 2170
+n_prey_caught 2180
+time_elapsed (m) = 44.71230986666667
+
+starting new rollout buffer after num_timesteps = 174080
+n_prey_caught 2190
+n_prey_caught 2200
+n_prey_caught 2210
+time_elapsed (m) = 45.022441309183336
+
+starting new rollout buffer after num_timesteps = 176128
+n_prey_caught 2220
+n_prey_caught 2230
+n_prey_caught 2240
+time_elapsed (m) = 45.3266435645
+
+starting new rollout buffer after num_timesteps = 178176
+n_prey_caught 2250
+n_prey_caught 2260
+time_elapsed (m) = 45.618969784183335
+
+starting new rollout buffer after num_timesteps = 180224
+n_prey_caught 2270
+n_prey_caught 2280
+n_prey_caught 2290
+n_prey_caught 2300
+time_elapsed (m) = 45.955876492899996
+
+starting new rollout buffer after num_timesteps = 182272
+n_prey_caught 2310
+n_prey_caught 2320
+time_elapsed (m) = 46.29402984191667
+
+starting new rollout buffer after num_timesteps = 184320
+n_prey_caught 2330
+n_prey_caught 2340
+n_prey_caught 2350
+time_elapsed (m) = 46.59988152621667
+
+starting new rollout buffer after num_timesteps = 186368
+n_prey_caught 2360
+n_prey_caught 2370
+time_elapsed (m) = 46.90650413906667
+
+starting new rollout buffer after num_timesteps = 188416
+n_prey_caught 2380
+n_prey_caught 2390
+n_prey_caught 2400
+n_prey_caught 2410
+time_elapsed (m) = 47.20299306703334
+
+starting new rollout buffer after num_timesteps = 190464
+n_prey_caught 2420
+n_prey_caught 2430
+n_prey_caught 2440
+time_elapsed (m) = 47.490174000833335
+
+starting new rollout buffer after num_timesteps = 192512
+n_prey_caught 2450
+n_prey_caught 2460
+time_elapsed (m) = 47.7908442405
+
+starting new rollout buffer after num_timesteps = 194560
+n_prey_caught 2470
+n_prey_caught 2480
+n_prey_caught 2490
+time_elapsed (m) = 48.09660987615
+
+starting new rollout buffer after num_timesteps = 196608
+n_prey_caught 2500
+n_prey_caught 2510
+time_elapsed (m) = 48.3953355151
+
+starting new rollout buffer after num_timesteps = 198656
+n_prey_caught 2520
+n_prey_caught 2530
+n_prey_caught 2540
+n_prey_caught 2550
+time_elapsed (m) = 48.6920488917
+
+starting new rollout buffer after num_timesteps = 200704
+n_prey_caught 2560
+n_prey_caught 2570
+n_prey_caught 2580
+n_prey_caught 2590
+time_elapsed (m) = 48.987611661950005
+
+starting new rollout buffer after num_timesteps = 202752
+n_prey_caught 2600
+n_prey_caught 2610
+time_elapsed (m) = 49.30181297126667
+
+starting new rollout buffer after num_timesteps = 204800
+n_prey_caught 2620
+n_prey_caught 2630
+n_prey_caught 2640
+time_elapsed (m) = 49.63991692845
+
+starting new rollout buffer after num_timesteps = 206848
+n_prey_caught 2650
+n_prey_caught 2660
+n_prey_caught 2670
+n_prey_caught 2680
+time_elapsed (m) = 49.976719205416664
+
+starting new rollout buffer after num_timesteps = 208896
+n_prey_caught 2690
+n_prey_caught 2700
+time_elapsed (m) = 50.282935991833334
+
+starting new rollout buffer after num_timesteps = 210944
+n_prey_caught 2710
+n_prey_caught 2720
+n_prey_caught 2730
+time_elapsed (m) = 50.59767705475
+
+starting new rollout buffer after num_timesteps = 212992
+n_prey_caught 2740
+n_prey_caught 2750
+n_prey_caught 2760
+time_elapsed (m) = 50.90808867653333
+
+starting new rollout buffer after num_timesteps = 215040
+n_prey_caught 2770
+n_prey_caught 2780
+n_prey_caught 2790
+time_elapsed (m) = 51.22437358395
+
+starting new rollout buffer after num_timesteps = 217088
+n_prey_caught 2800
+n_prey_caught 2810
+time_elapsed (m) = 51.5237832097
+
+starting new rollout buffer after num_timesteps = 219136
+n_prey_caught 2820
+n_prey_caught 2830
+n_prey_caught 2840
+n_prey_caught 2850
+time_elapsed (m) = 51.83328619273333
+
+starting new rollout buffer after num_timesteps = 221184
+n_prey_caught 2860
+n_prey_caught 2870
+n_prey_caught 2880
+time_elapsed (m) = 52.17242696571667
+
+starting new rollout buffer after num_timesteps = 223232
+n_prey_caught 2890
+n_prey_caught 2900
+n_prey_caught 2910
+time_elapsed (m) = 52.47809727673334
+
+starting new rollout buffer after num_timesteps = 225280
+n_prey_caught 2920
+n_prey_caught 2930
+time_elapsed (m) = 52.839944250516666
+
+starting new rollout buffer after num_timesteps = 227328
+n_prey_caught 2940
+n_prey_caught 2950
+n_prey_caught 2960
+time_elapsed (m) = 53.151527502099995
+
+starting new rollout buffer after num_timesteps = 229376
+n_prey_caught 2970
+n_prey_caught 2980
+n_prey_caught 2990
+time_elapsed (m) = 53.45367008911667
+
+starting new rollout buffer after num_timesteps = 231424
+n_prey_caught 3000
+n_prey_caught 3010
+n_prey_caught 3020
+time_elapsed (m) = 53.76658126755
+
+starting new rollout buffer after num_timesteps = 233472
+n_prey_caught 3030
+n_prey_caught 3040
+n_prey_caught 3050
+time_elapsed (m) = 54.087531962916664
+
+starting new rollout buffer after num_timesteps = 235520
+n_prey_caught 3060
+n_prey_caught 3070
+n_prey_caught 3080
+time_elapsed (m) = 54.38494862218333
+
+starting new rollout buffer after num_timesteps = 237568
+n_prey_caught 3090
+n_prey_caught 3100
+n_prey_caught 3110
+n_prey_caught 3120
+time_elapsed (m) = 54.72774534318333
+
+starting new rollout buffer after num_timesteps = 239616
+n_prey_caught 3130
+n_prey_caught 3140
+n_prey_caught 3150
+time_elapsed (m) = 55.06287423763333
+
+starting new rollout buffer after num_timesteps = 241664
+n_prey_caught 3160
+n_prey_caught 3170
+time_elapsed (m) = 55.38101256031667
+
+starting new rollout buffer after num_timesteps = 243712
+n_prey_caught 3180
+n_prey_caught 3190
+n_prey_caught 3200
+time_elapsed (m) = 55.761353129116664
+
+starting new rollout buffer after num_timesteps = 245760
+n_prey_caught 3210
+n_prey_caught 3220
+n_prey_caught 3230
+n_prey_caught 3240
+time_elapsed (m) = 56.14823475373333
+
+starting new rollout buffer after num_timesteps = 247808
+n_prey_caught 3250
+n_prey_caught 3260
+time_elapsed (m) = 56.563088391516665
+
+starting new rollout buffer after num_timesteps = 249856
+n_prey_caught 3270
+n_prey_caught 3280
+n_prey_caught 3290
+n_prey_caught 3300
+time_elapsed (m) = 56.97205391963333
+
+starting new rollout buffer after num_timesteps = 251904
+n_prey_caught 3310
+n_prey_caught 3320
+n_prey_caught 3330
+n_prey_caught 3340
+time_elapsed (m) = 57.34445554615
+
+starting new rollout buffer after num_timesteps = 253952
+n_prey_caught 3350
+n_prey_caught 3360
+n_prey_caught 3370
+time_elapsed (m) = 57.67875858231666
+
+starting new rollout buffer after num_timesteps = 256000
+n_prey_caught 3380
+n_prey_caught 3390
+n_prey_caught 3400
+time_elapsed (m) = 57.99908239356667
+
+starting new rollout buffer after num_timesteps = 258048
+n_prey_caught 3410
+time_elapsed (m) = 58.32100849098333
+
+starting new rollout buffer after num_timesteps = 260096
+n_prey_caught 3420
+n_prey_caught 3430
+n_prey_caught 3440
+time_elapsed (m) = 58.633688883283334
+
+starting new rollout buffer after num_timesteps = 262144
+n_prey_caught 3450
+n_prey_caught 3460
+time_elapsed (m) = 58.961488181
+
+starting new rollout buffer after num_timesteps = 264192
+n_prey_caught 3470
+n_prey_caught 3480
+n_prey_caught 3490
+n_prey_caught 3500
+time_elapsed (m) = 59.28491583091667
+
+starting new rollout buffer after num_timesteps = 266240
+n_prey_caught 3510
+n_prey_caught 3520
+time_elapsed (m) = 59.59578364425
+
+starting new rollout buffer after num_timesteps = 268288
+n_prey_caught 3530
+n_prey_caught 3540
+n_prey_caught 3550
+n_prey_caught 3560
+time_elapsed (m) = 59.93256390726666
+
+starting new rollout buffer after num_timesteps = 270336
+n_prey_caught 3570
+n_prey_caught 3580
+time_elapsed (m) = 60.26135674501666
+
+starting new rollout buffer after num_timesteps = 272384
+n_prey_caught 3590
+n_prey_caught 3600
+n_prey_caught 3610
+time_elapsed (m) = 60.57289891608333
+
+starting new rollout buffer after num_timesteps = 274432
+n_prey_caught 3620
+n_prey_caught 3630
+n_prey_caught 3640
+n_prey_caught 3650
+time_elapsed (m) = 60.89659258153333
+
+starting new rollout buffer after num_timesteps = 276480
+n_prey_caught 3660
+n_prey_caught 3670
+time_elapsed (m) = 61.211509191699996
+
+starting new rollout buffer after num_timesteps = 278528
+n_prey_caught 3680
+n_prey_caught 3690
+n_prey_caught 3700
+time_elapsed (m) = 61.5342430887
+
+starting new rollout buffer after num_timesteps = 280576
+n_prey_caught 3710
+n_prey_caught 3720
+n_prey_caught 3730
+time_elapsed (m) = 61.85675019323333
+
+starting new rollout buffer after num_timesteps = 282624
+n_prey_caught 3740
+n_prey_caught 3750
+time_elapsed (m) = 62.176625738333335
+
+starting new rollout buffer after num_timesteps = 284672
+n_prey_caught 3760
+n_prey_caught 3770
+n_prey_caught 3780
+n_prey_caught 3790
+time_elapsed (m) = 62.47563044696667
+
+starting new rollout buffer after num_timesteps = 286720
+n_prey_caught 3800
+n_prey_caught 3810
+n_prey_caught 3820
+n_prey_caught 3830
+time_elapsed (m) = 62.77691136751666
+
+starting new rollout buffer after num_timesteps = 288768
+n_prey_caught 3840
+n_prey_caught 3850
+time_elapsed (m) = 63.1156655757
+
+starting new rollout buffer after num_timesteps = 290816
+n_prey_caught 3860
+n_prey_caught 3870
+n_prey_caught 3880
+time_elapsed (m) = 63.427505175
+
+starting new rollout buffer after num_timesteps = 292864
+n_prey_caught 3890
+n_prey_caught 3900
+n_prey_caught 3910
+time_elapsed (m) = 63.75330264470001
+
+starting new rollout buffer after num_timesteps = 294912
+n_prey_caught 3920
+n_prey_caught 3930
+n_prey_caught 3940
+time_elapsed (m) = 64.06135636916666
+
+starting new rollout buffer after num_timesteps = 296960
+n_prey_caught 3950
+n_prey_caught 3960
+n_prey_caught 3970
+time_elapsed (m) = 64.36203529263334
+
+starting new rollout buffer after num_timesteps = 299008
+n_prey_caught 3980
+n_prey_caught 3990
+n_prey_caught 4000
+n_prey_caught 4010
+time_elapsed (m) = 64.68224716788333
+
+starting new rollout buffer after num_timesteps = 301056
+n_prey_caught 4020
+n_prey_caught 4030
+time_elapsed (m) = 64.990345469
+
+starting new rollout buffer after num_timesteps = 303104
+n_prey_caught 4040
+n_prey_caught 4050
+n_prey_caught 4060
+time_elapsed (m) = 65.30559835421667
+
+starting new rollout buffer after num_timesteps = 305152
+n_prey_caught 4070
+n_prey_caught 4080
+n_prey_caught 4090
+n_prey_caught 4100
+time_elapsed (m) = 65.62724700056667
+
+starting new rollout buffer after num_timesteps = 307200
+n_prey_caught 4110
+n_prey_caught 4120
+time_elapsed (m) = 65.94355375516666
+
+starting new rollout buffer after num_timesteps = 309248
+n_prey_caught 4130
+n_prey_caught 4140
+n_prey_caught 4150
+time_elapsed (m) = 66.25320300413334
+
+starting new rollout buffer after num_timesteps = 311296
+n_prey_caught 4160
+n_prey_caught 4170
+time_elapsed (m) = 66.55960372696667
+
+starting new rollout buffer after num_timesteps = 313344
+n_prey_caught 4180
+n_prey_caught 4190
+n_prey_caught 4200
+time_elapsed (m) = 66.85871917681666
+
+starting new rollout buffer after num_timesteps = 315392
+n_prey_caught 4210
+n_prey_caught 4220
+n_prey_caught 4230
+time_elapsed (m) = 67.15815733305
+
+starting new rollout buffer after num_timesteps = 317440
+n_prey_caught 4240
+n_prey_caught 4250
+n_prey_caught 4260
+n_prey_caught 4270
+time_elapsed (m) = 67.46771686266666
+
+starting new rollout buffer after num_timesteps = 319488
+n_prey_caught 4280
+n_prey_caught 4290
+n_prey_caught 4300
+time_elapsed (m) = 67.7831140997
+
+starting new rollout buffer after num_timesteps = 321536
+n_prey_caught 4310
+n_prey_caught 4320
+time_elapsed (m) = 68.10565887821666
+
+starting new rollout buffer after num_timesteps = 323584
+n_prey_caught 4330
+n_prey_caught 4340
+n_prey_caught 4350
+time_elapsed (m) = 68.41261380243333
+
+starting new rollout buffer after num_timesteps = 325632
+n_prey_caught 4360
+n_prey_caught 4370
+n_prey_caught 4380
+time_elapsed (m) = 68.71828986171666
+
+starting new rollout buffer after num_timesteps = 327680
+n_prey_caught 4390
+n_prey_caught 4400
+n_prey_caught 4410
+time_elapsed (m) = 69.02723475826666
+
+starting new rollout buffer after num_timesteps = 329728
+n_prey_caught 4420
+n_prey_caught 4430
+n_prey_caught 4440
+time_elapsed (m) = 69.33226808883335
+
+starting new rollout buffer after num_timesteps = 331776
+n_prey_caught 4450
+n_prey_caught 4460
+time_elapsed (m) = 69.64718037865
+
+starting new rollout buffer after num_timesteps = 333824
+n_prey_caught 4470
+n_prey_caught 4480
+n_prey_caught 4490
+time_elapsed (m) = 69.95923654386667
+
+starting new rollout buffer after num_timesteps = 335872
+n_prey_caught 4500
+n_prey_caught 4510
+n_prey_caught 4520
+time_elapsed (m) = 70.28309622118333
+
+starting new rollout buffer after num_timesteps = 337920
+n_prey_caught 4530
+n_prey_caught 4540
+n_prey_caught 4550
+time_elapsed (m) = 70.58439102296667
+
+starting new rollout buffer after num_timesteps = 339968
+n_prey_caught 4560
+n_prey_caught 4570
+n_prey_caught 4580
+time_elapsed (m) = 70.89017124751668
+
+starting new rollout buffer after num_timesteps = 342016
+n_prey_caught 4590
+n_prey_caught 4600
+time_elapsed (m) = 71.20315776853334
+
+starting new rollout buffer after num_timesteps = 344064
+n_prey_caught 4610
+n_prey_caught 4620
+time_elapsed (m) = 71.5321496528
+
+starting new rollout buffer after num_timesteps = 346112
+n_prey_caught 4630
+n_prey_caught 4640
+n_prey_caught 4650
+time_elapsed (m) = 71.85514584865
+
+starting new rollout buffer after num_timesteps = 348160
+n_prey_caught 4660
+n_prey_caught 4670
+n_prey_caught 4680
+n_prey_caught 4690
+time_elapsed (m) = 72.185079798
+
+starting new rollout buffer after num_timesteps = 350208
+n_prey_caught 4700
+n_prey_caught 4710
+n_prey_caught 4720
+time_elapsed (m) = 72.52129796641665
+
+starting new rollout buffer after num_timesteps = 352256
+n_prey_caught 4730
+n_prey_caught 4740
+n_prey_caught 4750
+time_elapsed (m) = 72.84684723175
+
+starting new rollout buffer after num_timesteps = 354304
+n_prey_caught 4760
+n_prey_caught 4770
+time_elapsed (m) = 73.1667079814
+
+starting new rollout buffer after num_timesteps = 356352
+n_prey_caught 4780
+n_prey_caught 4790
+n_prey_caught 4800
+time_elapsed (m) = 73.48706499013333
+
+starting new rollout buffer after num_timesteps = 358400
+n_prey_caught 4810
+n_prey_caught 4820
+n_prey_caught 4830
+time_elapsed (m) = 73.78796052295
+
+starting new rollout buffer after num_timesteps = 360448
+n_prey_caught 4840
+n_prey_caught 4850
+time_elapsed (m) = 74.10348595608333
+
+starting new rollout buffer after num_timesteps = 362496
+n_prey_caught 4860
+n_prey_caught 4870
+n_prey_caught 4880
+time_elapsed (m) = 74.39964250293333
+
+starting new rollout buffer after num_timesteps = 364544
+n_prey_caught 4890
+n_prey_caught 4900
+n_prey_caught 4910
+n_prey_caught 4920
+time_elapsed (m) = 74.70499812155
+
+starting new rollout buffer after num_timesteps = 366592
+n_prey_caught 4930
+n_prey_caught 4940
+n_prey_caught 4950
+time_elapsed (m) = 75.01381860071666
+
+starting new rollout buffer after num_timesteps = 368640
+n_prey_caught 4960
+n_prey_caught 4970
+time_elapsed (m) = 75.31313116355
+
+starting new rollout buffer after num_timesteps = 370688
+n_prey_caught 4980
+n_prey_caught 4990
+n_prey_caught 5000
+time_elapsed (m) = 75.6194463537
+
+starting new rollout buffer after num_timesteps = 372736
+n_prey_caught 5010
+n_prey_caught 5020
+time_elapsed (m) = 75.92774582063333
+
+starting new rollout buffer after num_timesteps = 374784
+n_prey_caught 5030
+n_prey_caught 5040
+n_prey_caught 5050
+time_elapsed (m) = 76.25094598474999
+
+starting new rollout buffer after num_timesteps = 376832
+n_prey_caught 5060
+n_prey_caught 5070
+n_prey_caught 5080
+time_elapsed (m) = 76.5904710432
+
+starting new rollout buffer after num_timesteps = 378880
+n_prey_caught 5090
+n_prey_caught 5100
+time_elapsed (m) = 76.91584525660001
+
+starting new rollout buffer after num_timesteps = 380928
+n_prey_caught 5110
+n_prey_caught 5120
+n_prey_caught 5130
+time_elapsed (m) = 77.23090388355
+
+starting new rollout buffer after num_timesteps = 382976
+n_prey_caught 5140
+n_prey_caught 5150
+n_prey_caught 5160
+time_elapsed (m) = 77.55703806776667
+
+starting new rollout buffer after num_timesteps = 385024
+n_prey_caught 5170
+n_prey_caught 5180
+n_prey_caught 5190
+time_elapsed (m) = 77.88291802293334
+
+starting new rollout buffer after num_timesteps = 387072
+n_prey_caught 5200
+n_prey_caught 5210
+n_prey_caught 5220
+time_elapsed (m) = 78.21319231826666
+
+starting new rollout buffer after num_timesteps = 389120
+n_prey_caught 5230
+n_prey_caught 5240
+n_prey_caught 5250
+time_elapsed (m) = 78.52530046815
+
+starting new rollout buffer after num_timesteps = 391168
+n_prey_caught 5260
+n_prey_caught 5270
+n_prey_caught 5280
+time_elapsed (m) = 78.83796795751667
+
+starting new rollout buffer after num_timesteps = 393216
+n_prey_caught 5290
+n_prey_caught 5300
+time_elapsed (m) = 79.16018104826667
+
+starting new rollout buffer after num_timesteps = 395264
+n_prey_caught 5310
+n_prey_caught 5320
+n_prey_caught 5330
+n_prey_caught 5340
+time_elapsed (m) = 79.49430784011666
+
+starting new rollout buffer after num_timesteps = 397312
+n_prey_caught 5350
+n_prey_caught 5360
+n_prey_caught 5370
+n_prey_caught 5380
+time_elapsed (m) = 79.82053229755
+
+starting new rollout buffer after num_timesteps = 399360
+n_prey_caught 5390
+n_prey_caught 5400
+n_prey_caught 5410
+time_elapsed (m) = 80.14291216118333
+
+starting new rollout buffer after num_timesteps = 401408
+n_prey_caught 5420
+n_prey_caught 5430
+n_prey_caught 5440
+time_elapsed (m) = 80.47551612086666
+
+starting new rollout buffer after num_timesteps = 403456
+n_prey_caught 5450
+n_prey_caught 5460
+n_prey_caught 5470
+time_elapsed (m) = 80.78482511488333
+
+starting new rollout buffer after num_timesteps = 405504
+n_prey_caught 5480
+n_prey_caught 5490
+n_prey_caught 5500
+time_elapsed (m) = 81.10671585768334
+
+starting new rollout buffer after num_timesteps = 407552
+n_prey_caught 5510
+n_prey_caught 5520
+n_prey_caught 5530
+time_elapsed (m) = 81.41751626743333
+
+starting new rollout buffer after num_timesteps = 409600
+n_prey_caught 5540
+n_prey_caught 5550
+time_elapsed (m) = 81.74796255886666
+
+starting new rollout buffer after num_timesteps = 411648
+n_prey_caught 5560
+n_prey_caught 5570
+n_prey_caught 5580
+n_prey_caught 5590
+time_elapsed (m) = 82.06438188773333
+
+starting new rollout buffer after num_timesteps = 413696
+n_prey_caught 5600
+n_prey_caught 5610
+time_elapsed (m) = 82.38494900885
+
+starting new rollout buffer after num_timesteps = 415744
+n_prey_caught 5620
+n_prey_caught 5630
+n_prey_caught 5640
+n_prey_caught 5650
+time_elapsed (m) = 82.7067973265
+
+starting new rollout buffer after num_timesteps = 417792
+n_prey_caught 5660
+n_prey_caught 5670
+n_prey_caught 5680
+time_elapsed (m) = 83.0284011326
+
+starting new rollout buffer after num_timesteps = 419840
+n_prey_caught 5690
+n_prey_caught 5700
+n_prey_caught 5710
+n_prey_caught 5720
+time_elapsed (m) = 83.34393634485
+
+starting new rollout buffer after num_timesteps = 421888
+n_prey_caught 5730
+n_prey_caught 5740
+time_elapsed (m) = 83.65567261470001
+
+starting new rollout buffer after num_timesteps = 423936
+n_prey_caught 5750
+n_prey_caught 5760
+n_prey_caught 5770
+n_prey_caught 5780
+time_elapsed (m) = 83.97658440988333
+
+starting new rollout buffer after num_timesteps = 425984
+n_prey_caught 5790
+n_prey_caught 5800
+n_prey_caught 5810
+time_elapsed (m) = 84.30345149918334
+
+starting new rollout buffer after num_timesteps = 428032
+n_prey_caught 5820
+n_prey_caught 5830
+n_prey_caught 5840
+time_elapsed (m) = 84.62169951426667
+
+starting new rollout buffer after num_timesteps = 430080
+n_prey_caught 5850
+n_prey_caught 5860
+n_prey_caught 5870
+time_elapsed (m) = 84.94371236883333
+
+starting new rollout buffer after num_timesteps = 432128
+n_prey_caught 5880
+n_prey_caught 5890
+n_prey_caught 5900
+time_elapsed (m) = 85.2724078739
+
+starting new rollout buffer after num_timesteps = 434176
+n_prey_caught 5910
+n_prey_caught 5920
+n_prey_caught 5930
+time_elapsed (m) = 85.58881934578334
+
+starting new rollout buffer after num_timesteps = 436224
+n_prey_caught 5940
+n_prey_caught 5950
+n_prey_caught 5960
+time_elapsed (m) = 85.91224853499999
+
+starting new rollout buffer after num_timesteps = 438272
+n_prey_caught 5970
+n_prey_caught 5980
+time_elapsed (m) = 86.22883620385001
+
+starting new rollout buffer after num_timesteps = 440320
+n_prey_caught 5990
+n_prey_caught 6000
+n_prey_caught 6010
+time_elapsed (m) = 86.54929955325
+
+starting new rollout buffer after num_timesteps = 442368
+n_prey_caught 6020
+n_prey_caught 6030
+time_elapsed (m) = 86.87119077903334
+
+starting new rollout buffer after num_timesteps = 444416
+n_prey_caught 6040
+n_prey_caught 6050
+n_prey_caught 6060
+time_elapsed (m) = 87.1974319289
+
+starting new rollout buffer after num_timesteps = 446464
+n_prey_caught 6070
+n_prey_caught 6080
+n_prey_caught 6090
+time_elapsed (m) = 87.52256257601667
+
+starting new rollout buffer after num_timesteps = 448512
+n_prey_caught 6100
+n_prey_caught 6110
+n_prey_caught 6120
+time_elapsed (m) = 87.83690526235
+
+starting new rollout buffer after num_timesteps = 450560
+n_prey_caught 6130
+n_prey_caught 6140
+n_prey_caught 6150
+time_elapsed (m) = 88.15854786006666
+
+starting new rollout buffer after num_timesteps = 452608
+n_prey_caught 6160
+n_prey_caught 6170
+time_elapsed (m) = 88.48369837144999
+
+starting new rollout buffer after num_timesteps = 454656
+n_prey_caught 6180
+n_prey_caught 6190
+n_prey_caught 6200
+n_prey_caught 6210
+time_elapsed (m) = 88.82458046751667
+
+starting new rollout buffer after num_timesteps = 456704
+n_prey_caught 6220
+n_prey_caught 6230
+time_elapsed (m) = 89.15535634313332
+
+starting new rollout buffer after num_timesteps = 458752
+n_prey_caught 6240
+n_prey_caught 6250
+n_prey_caught 6260
+time_elapsed (m) = 89.4752221821
+
+starting new rollout buffer after num_timesteps = 460800
+n_prey_caught 6270
+n_prey_caught 6280
+n_prey_caught 6290
+time_elapsed (m) = 89.79450625761666
+
+starting new rollout buffer after num_timesteps = 462848
+n_prey_caught 6300
+n_prey_caught 6310
+n_prey_caught 6320
+time_elapsed (m) = 90.11154498203334
+
+starting new rollout buffer after num_timesteps = 464896
+n_prey_caught 6330
+n_prey_caught 6340
+n_prey_caught 6350
+n_prey_caught 6360
+time_elapsed (m) = 90.42222169396668
+
+starting new rollout buffer after num_timesteps = 466944
+n_prey_caught 6370
+n_prey_caught 6380
+n_prey_caught 6390
+n_prey_caught 6400
+time_elapsed (m) = 90.73514335016667
+
+starting new rollout buffer after num_timesteps = 468992
+n_prey_caught 6410
+n_prey_caught 6420
+n_prey_caught 6430
+time_elapsed (m) = 91.04941470601666
+
+starting new rollout buffer after num_timesteps = 471040
+n_prey_caught 6440
+n_prey_caught 6450
+n_prey_caught 6460
+time_elapsed (m) = 91.36222631898333
+
+starting new rollout buffer after num_timesteps = 473088
+n_prey_caught 6470
+n_prey_caught 6480
+time_elapsed (m) = 91.6712272057
+
+starting new rollout buffer after num_timesteps = 475136
+n_prey_caught 6490
+n_prey_caught 6500
+time_elapsed (m) = 91.98610765318334
+
+starting new rollout buffer after num_timesteps = 477184
+n_prey_caught 6510
+n_prey_caught 6520
+n_prey_caught 6530
+time_elapsed (m) = 92.31459972978334
+
+starting new rollout buffer after num_timesteps = 479232
+n_prey_caught 6540
+n_prey_caught 6550
+n_prey_caught 6560
+time_elapsed (m) = 92.63323334670001
+
+starting new rollout buffer after num_timesteps = 481280
+n_prey_caught 6570
+n_prey_caught 6580
+time_elapsed (m) = 92.93797916554999
+
+starting new rollout buffer after num_timesteps = 483328
+n_prey_caught 6590
+n_prey_caught 6600
+time_elapsed (m) = 93.27328228028334
+
+starting new rollout buffer after num_timesteps = 485376
+n_prey_caught 6610
+n_prey_caught 6620
+time_elapsed (m) = 93.5874647121
+
+starting new rollout buffer after num_timesteps = 487424
+n_prey_caught 6630
+n_prey_caught 6640
+n_prey_caught 6650
+time_elapsed (m) = 93.89823187123334
+
+starting new rollout buffer after num_timesteps = 489472
+n_prey_caught 6660
+n_prey_caught 6670
+time_elapsed (m) = 94.22539004555
+
+starting new rollout buffer after num_timesteps = 491520
+n_prey_caught 6680
+n_prey_caught 6690
+time_elapsed (m) = 94.552858718
+
+starting new rollout buffer after num_timesteps = 493568
+n_prey_caught 6700
+n_prey_caught 6710
+n_prey_caught 6720
+time_elapsed (m) = 94.88217681636667
+
+starting new rollout buffer after num_timesteps = 495616
+n_prey_caught 6730
+n_prey_caught 6740
+n_prey_caught 6750
+n_prey_caught 6760
+time_elapsed (m) = 95.19528151751666
+
+starting new rollout buffer after num_timesteps = 497664
+n_prey_caught 6770
+n_prey_caught 6780
+n_prey_caught 6790
+time_elapsed (m) = 95.51573169768334
+
+starting new rollout buffer after num_timesteps = 499712
+n_prey_caught 6800
+n_prey_caught 6810
+n_prey_caught 6820
+time_elapsed (m) = 95.83967228863334
+Saving model to: /mnt/c/Users/ssned/DriveLocal/Home/Projects/FM/meher/meher/experiments/z3_shield/models/2920430575
