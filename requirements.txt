@@ -1,0 +1,21 @@
+#ray[tune]
+matplotlib
+imageio
+ipdb
+# gym==0.21.0
+redis
+ipython
+tqdm
+tensorboard
+packaging
+hyperopt
+pytest
+tbparse
+stable-baselines3==2.1.0
+torch
+numpy
+#gymnasium
+z3-solver
+
+
+
